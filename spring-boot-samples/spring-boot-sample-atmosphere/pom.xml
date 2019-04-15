@@ -55,12 +55,6 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
-			
-            <version>2.22.1</version>
-            <configuration>
-                <useSystemClassLoader>false</useSystemClassLoader>
-            </configuration>
-        
 			<plugin>
 				<groupId>org.jacoco</groupId>
 				<artifactId>jacoco-maven-plugin</artifactId>
